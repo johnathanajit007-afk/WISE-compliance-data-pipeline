@@ -1,0 +1,1001 @@
+customer_id,submitted_name,submitted_jurisdiction,matched_sanction_name,matched_country,name_score,risk_category,decision
+CUST-0001,Alexander Nair,IN,Carl Alexander,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0002,Aarav Ivanov,GB,Alexander Ivanovich Bas,by,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0003,Carlos Smirnova,AE,Carlos Pena,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0004,Lucas Smirnova,SG,Luca Tubbini,us,53.84615384615385,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0005,Johnathan Smith,US,Jonathan Stone,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0006,Olga Malik,DE,Parveen Malik,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0007,Lucas Nair,KP,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0008,Lucas Sharma,KP,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0009,Wei Malik,GB,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0010,Johnathan Sharma,IN,Johnathon Sawaged,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0011,Zainab Patel,KP,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0012,Wei Patel,SG,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0013,Johnathan Patel,AU,Jonathan Sotelo,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0014,Aarav Ivanov,KP,Alexander Ivanovich Bas,by,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0015,Siddharth Nair,KP,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0016,Viktor Volkov,IN,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0017,Viktor Zhang,FR,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0018,Aarav Volkov,US,Yolotzi Lara,us,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0019,Elena Patel,GB,Kevin Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0020,Johnathan Rostova,KP,Jonathan Sotelo,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0021,Zainab Patel,IN,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0022,Siddharth Ivanov,FR,Siddhartha SANYAL,sg,60.60606060606061,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0023,Fatima Wong,KP,Ming Fan Wong,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0024,Fatima Malik,AU,Anita Malik,in,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0025,Alexander Silva,SG,Allexander Saiag,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0026,Wei Chen,FR,Chen Weiwei,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0027,Zainab Chen,US,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0028,Wei Patel,KP,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0029,Mei Wong,IN,Wang Min,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0030,Aarav Nair,AE,Nizar Farhat,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0031,Viktor Nair,KP,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0032,Siddharth Rostova,CA,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0033,Olga Sharma,AE,Puja Sharma,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0034,Wei Sharma,IN,Wen Shaomu,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0035,Wei Smith,CA,Wallace Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0036,Olga Gomez,AU,Kira Gomez,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0037,Rahul Zhang,CA,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0038,Zainab Nair,IN,Wai Zin,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0039,Zainab Sharma,AU,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0040,Johnathan Rostova,KP,Jonathan Sotelo,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0041,Lucas Wong,GB,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0042,Elena Volkov,DE,Eva Smolíková,sk,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0043,Lucas Smith,AU,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0044,Aarav Malik,US,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0045,Zainab Smirnova,SG,Amir Zia,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0046,Wei Ivanov,IN,Gao Wei,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0047,Aarav Chen,RU,Chen Can,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0048,Dmitri Silva,US,Dmitri Lobkov,by,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0049,Fatima Al-Hassan,FR,Alan Fabian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0050,Carlos Wong,GB,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0051,Carlos Smith,AE,Charles Smith,us,88.0,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0052,Siddharth Nair,GB,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0053,Lucas Al-Hassan,US,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0054,Zainab Zhang,AE,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0055,Siddharth Chen,AU,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0056,Johnathan Silva,FR,Johnathan Wilson,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0057,Rahul Silva,DE,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0058,Elena Gomez,KP,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0059,Mei Smith,DE,Meon Smith,us,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0060,Carlos Smirnova,DE,Carlos Pena,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0061,Zainab Volkov,GB,Veljko Zarubica,me,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0062,Viktor Ivanov,DE,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0063,Viktor Wong,CA,Wan-Sing Victor Wong,us,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0064,Zainab Malik,AU,Majid Zarrinnam,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0065,Fatima Volkov,RU,Fartima Tucker,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0066,Dmitri Gomez,IN,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0067,Wei Smirnova,SG,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0068,Dmitri Silva,KP,Dmitri Lobkov,by,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0069,Dmitri Ivanov,SG,Dmitrii Ivanovich LVOV,ru,74.28571428571429,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0070,Zainab Rostova,FR,Liksutova Tatiana,UNKNOWN,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0071,Aarav Sharma,AE,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0072,Fatima Patel,AU,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0073,Johnathan Zhang,RU,Jonha Lang,cn,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0074,Zainab Ivanov,US,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0075,Johnathan Smirnova,DE,Johnathan Wilson,us,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0076,Olga Chen,CA,Chen Fan,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0077,Olga Patel,SG,Mahesh Patel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0078,Olga Volkov,GB,Eva Smolíková,sk,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0079,Carlos Ivanov,CA,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0080,Fatima Al-Hassan,IN,Alan Fabian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0081,Wei Smirnova,CA,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0082,Carlos Volkov,IN,Carlos Piexotto,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0083,Mei Smirnova,GB,Medhi Shirzad,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0084,Mei Patel,RU,Kevin Patel,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0085,Mei Malik,KP,Manuel Mejia,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0086,Aarav Ivanov,US,Alexander Ivanovich Bas,by,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0087,Aarav Patel,GB,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0088,Viktor Ivanov,GB,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0089,Lucas Wong,RU,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0090,Dmitri Patel,FR,Dhiren Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0091,Elena Wong,KP,Erna Wei Wong,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0092,Lucas Smith,AU,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0093,Aarav Silva,GB,Silvia Cata,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0094,Carlos Silva,FR,Silvia Cata,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0095,Rahul Ivanov,US,Pavel Ivanovich Turlak,us,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0096,Carlos Patel,SG,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0097,Fatima Nair,US,Fartima Tucker,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0098,Johnathan Zhang,CA,Jonha Lang,cn,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0099,Aarav Zhang,AU,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0100,Elena Malik,FR,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0101,Lucas Al-Hassan,US,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0102,Zainab Chen,SG,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0103,Mei Malik,IN,Manuel Mejia,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0104,Olga Silva,RU,Olga Spivak,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0105,Alexander Silva,DE,Allexander Saiag,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0106,Alexander Zhang,FR,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0107,Olga Silva,IN,Olga Spivak,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0108,Olga Volkov,CA,Eva Smolíková,sk,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0109,Rahul Malik,RU,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0110,Alexander Malik,IN,Carl Alexander,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0111,Zainab Malik,AU,Majid Zarrinnam,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0112,Siddharth Sharma,AU,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0113,Rahul Sharma,CA,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0114,Aarav Nair,KP,Nizar Farhat,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0115,Rahul Wong,GB,Yulong,cn,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0116,Viktor Patel,US,Victoria Prasol,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0117,Rahul Malik,GB,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0118,Elena Smirnova,CA,Likhomanova Elena,UNKNOWN,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0119,Viktor Rostova,KP,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0120,Aarav Smith,AU,Andrea Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0121,Zainab Volkov,SG,Veljko Zarubica,me,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0122,Carlos Malik,RU,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0123,Alexander Gomez,US,Alexandra Gold,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0124,Mei Wong,CA,Wang Min,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0125,Elena Smith,DE,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0126,Wei Smith,CA,Wallace Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0127,Carlos Patel,KP,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0128,Johnathan Nair,AU,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0129,Mei Zhang,CA,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0130,Zainab Al-Hassan,US,Mazen Hassan Al-Zein,ae;gb;lb,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0131,Elena Silva,FR,Elena Fedkina,cn;ru,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0132,Zainab Nair,KP,Wai Zin,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0133,Siddharth Malik,SG,Marika Smith,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0134,Dmitri Patel,SG,Dhiren Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0135,Wei Zhang,FR,Zhang Wei,cn,100.0,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0136,Johnathan Al-Hassan,DE,"Arellano, Jonathan",us,70.27027027027026,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0137,Alexander Nair,SG,Carl Alexander,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0138,Lucas Smith,IN,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0139,Olga Smirnova,RU,Olga Spivak,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0140,Zainab Gomez,SG,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0141,Zainab Silva,DE,Yuan Silang,cn,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0142,Lucas Zhang,AE,Zhang Xue,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0143,Lucas Wong,CA,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0144,Aarav Smirnova,AE,Aram Mirzoyan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0145,Viktor Gomez,GB,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0146,Zainab Sharma,IN,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0147,Olga Silva,AU,Olga Spivak,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0148,Olga Zhang,SG,Zhang Xia,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0149,Wei Zhang,IN,Zhang Wei,cn,100.0,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0150,Lucas Patel,DE,Mahesh Patel,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0151,Lucas Volkov,IN,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0152,Aarav Zhang,FR,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0153,Siddharth Rostova,AE,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0154,Carlos Patel,CA,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0155,Wei Volkov,KP,Gao Wei,cn,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0156,Carlos Nair,US,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0157,Johnathan Ivanov,RU,Jonathan Ingram,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0158,Lucas Rostova,FR,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0159,Zainab Chen,RU,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0160,Mei Ivanov,SG,Ivo Matijevic,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0161,Dmitri Smith,RU,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0162,Mei Al-Hassan,SG,Merhi Hassan,UNKNOWN,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0163,Mei Al-Hassan,GB,Merhi Hassan,UNKNOWN,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0164,Carlos Malik,AU,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0165,Wei Al-Hassan,KP,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0166,Wei Malik,SG,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0167,Dmitri Smirnova,AU,Dmitry Strashnov,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0168,Rahul Patel,GB,Sonal Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0169,Lucas Volkov,SG,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0170,Lucas Chen,KP,Chen Lina,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0171,Dmitri Sharma,AE,Dmitrii Karasavidi,ru,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0172,Fatima Volkov,GB,Fartima Tucker,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0173,Wei Gomez,AU,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0174,Olga Malik,FR,Parveen Malik,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0175,Johnathan Patel,DE,Jonathan Sotelo,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0176,Carlos Smith,RU,Charles Smith,us,88.0,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0177,Wei Patel,DE,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0178,Mei Smith,FR,Meon Smith,us,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0179,Wei Gomez,US,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0180,Fatima Silva,SG,Silvia Cata,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0181,Alexander Gomez,FR,Alexandra Gold,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0182,Aarav Zhang,SG,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0183,Fatima Nair,GB,Fartima Tucker,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0184,Lucas Rostova,SG,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0185,Siddharth Smith,SG,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0186,Wei Smirnova,FR,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0187,Fatima Patel,AU,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0188,Siddharth Wong,CA,Timothy Wong,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0189,Dmitri Smirnova,US,Dmitry Strashnov,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0190,Siddharth Patel,FR,Sachin Patel,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0191,Carlos Ivanov,AU,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0192,Alexander Malik,GB,Carl Alexander,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0193,Wei Nair,IN,Gao Wei,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0194,Elena Wong,GB,Erna Wei Wong,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0195,Wei Silva,AU,Sheila White,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0196,Johnathan Al-Hassan,GB,"Arellano, Jonathan",us,70.27027027027026,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0197,Zainab Rostova,CA,Liksutova Tatiana,UNKNOWN,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0198,Aarav Malik,SG,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0199,Viktor Nair,SG,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0200,Elena Smirnova,CA,Likhomanova Elena,UNKNOWN,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0201,Fatima Silva,IN,Silvia Cata,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0202,Viktor Patel,DE,Victoria Prasol,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0203,Dmitri Rostova,SG,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0204,Alexander Smith,KP,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0205,Siddharth Al-Hassan,AE,'Ali Ridha Hassan AL-BANAI,gb;qa,62.22222222222222,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0206,Johnathan Sharma,RU,Johnathon Sawaged,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0207,Aarav Patel,FR,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0208,Siddharth Chen,GB,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0209,Siddharth Volkov,DE,Mitar Vuković,me,55.172413793103445,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0210,Mei Sharma,AU,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0211,Viktor Sharma,US,Mr Viktor Sherman,ua,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0212,Johnathan Nair,IN,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0213,Mei Zhang,SG,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0214,Aarav Patel,KP,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0215,Siddharth Sharma,AU,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0216,Viktor Rostova,GB,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0217,Lucas Volkov,DE,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0218,Lucas Volkov,SG,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0219,Dmitri Ivanov,AE,Dmitrii Ivanovich LVOV,ru,74.28571428571429,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0220,Olga Chen,DE,Chen Fan,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0221,Olga Nair,GB,Javier Vega,us,60.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0222,Zainab Nair,KP,Wai Zin,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0223,Fatima Patel,GB,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0224,Mei Rostova,DE,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0225,Alexander Silva,SG,Allexander Saiag,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0226,Wei Rostova,AE,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0227,Aarav Smirnova,RU,Aram Mirzoyan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0228,Olga Wong,KP,Orlando Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0229,Carlos Gomez,RU,Aldo Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0230,Viktor Volkov,AU,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0231,Olga Ivanov,GB,Okley Pavel Ivanovich,UNKNOWN,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0232,Fatima Silva,FR,Silvia Cata,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0233,Fatima Smirnova,RU,Patricia Sandoval,us,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0234,Zainab Al-Hassan,GB,Mazen Hassan Al-Zein,ae;gb;lb,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0235,Elena Silva,SG,Elena Fedkina,cn;ru,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0236,Fatima Zhang,RU,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0237,Rahul Nair,AU,Paul Lanier,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0238,Dmitri Patel,AE,Dhiren Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0239,Carlos Wong,KP,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0240,Wei Silva,CA,Sheila White,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0241,Olga Al-Hassan,AE,Mazen Hassan Al-Zein,ae;gb;lb,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0242,Olga Chen,RU,Chen Fan,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0243,Mei Smith,DE,Meon Smith,us,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0244,Olga Smirnova,SG,Olga Spivak,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0245,Carlos Chen,RU,Cao Chen,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0246,Fatima Rostova,KP,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0247,Carlos Ivanov,AU,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0248,Zainab Chen,FR,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0249,Wei Al-Hassan,US,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0250,Dmitri Smith,RU,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0251,Zainab Chen,DE,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0252,Dmitri Silva,SG,Dmitri Lobkov,by,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0253,Rahul Patel,RU,Sonal Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0254,Carlos Nair,AU,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0255,Alexander Patel,SG,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0256,Zainab Smith,FR,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0257,Wei Malik,KP,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0258,Alexander Patel,RU,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0259,Lucas Silva,RU,Silvia Cata,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0260,Carlos Chen,CA,Cao Chen,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0261,Fatima Rostova,DE,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0262,Johnathan Gomez,FR,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0263,Aarav Ivanov,GB,Alexander Ivanovich Bas,by,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0264,Johnathan Nair,US,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0265,Olga Rostova,FR,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0266,Wei Smith,CA,Wallace Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0267,Carlos Al-Hassan,RU,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0268,Siddharth Ivanov,AE,Siddhartha SANYAL,sg,60.60606060606061,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0269,Johnathan Smith,AE,Jonathan Stone,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0270,Wei Patel,FR,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0271,Elena Zhang,GB,Zhang Heng,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0272,Viktor Silva,DE,Viktor Sykora,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0273,Viktor Patel,SG,Victoria Prasol,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0274,Viktor Patel,FR,Victoria Prasol,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0275,Zainab Silva,FR,Yuan Silang,cn,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0276,Rahul Rostova,IN,Laura Royston,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0277,Carlos Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0278,Alexander Gomez,GB,Alexandra Gold,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0279,Zainab Ivanov,DE,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0280,Lucas Nair,GB,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0281,Aarav Sharma,GB,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0282,Viktor Gomez,CA,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0283,Dmitri Nair,CA,Dimitrios Zafiris,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0284,Elena Patel,US,Kevin Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0285,Siddharth Silva,KP,Siddhartha SANYAL,sg,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0286,Aarav Malik,AU,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0287,Elena Gomez,DE,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0288,Wei Wong,FR,Erna Wei Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0289,Carlos Patel,KP,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0290,Lucas Volkov,GB,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0291,Mei Sharma,FR,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0292,Rahul Zhang,FR,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0293,Viktor Wong,SG,Wan-Sing Victor Wong,us,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0294,Johnathan Gomez,DE,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0295,Siddharth Gomez,AU,Gholamreza Shareghi,us,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0296,Zainab Zhang,IN,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0297,Viktor Rostova,AU,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0298,Aarav Patel,IN,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0299,Aarav Al-Hassan,DE,Hassan Fawaz,UNKNOWN,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0300,Mei Wong,US,Wang Min,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0301,Zainab Sharma,IN,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0302,Viktor Rostova,RU,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0303,Carlos Wong,FR,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0304,Alexander Al-Hassan,FR,Alexander J. Ajemian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0305,Rahul Zhang,AU,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0306,Johnathan Gomez,AU,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0307,Wei Rostova,AE,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0308,Rahul Wong,IN,Yulong,cn,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0309,Siddharth Chen,FR,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0310,Johnathan Sharma,SG,Johnathon Sawaged,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0311,Fatima Patel,SG,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0312,Carlos Sharma,DE,Shara Croff,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0313,Rahul Al-Hassan,US,Mazen Hassan Al-Zein,ae;gb;lb,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0314,Olga Volkov,GB,Eva Smolíková,sk,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0315,Siddharth Sharma,AU,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0316,Zainab Chen,DE,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0317,Olga Sharma,US,Puja Sharma,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0318,Viktor Rostova,IN,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0319,Olga Ivanov,IN,Okley Pavel Ivanovich,UNKNOWN,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0320,Dmitri Smirnova,RU,Dmitry Strashnov,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0321,Fatima Sharma,RU,Manorama Sharma,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0322,Viktor Wong,FR,Wan-Sing Victor Wong,us,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0323,Lucas Volkov,DE,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0324,Olga Silva,DE,Olga Spivak,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0325,Rahul Volkov,RU,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0326,Fatima Patel,US,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0327,Aarav Wong,US,Orlando Wong,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0328,Carlos Patel,GB,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0329,Fatima Rostova,KP,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0330,Lucas Smith,SG,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0331,Wei Malik,IN,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0332,Wei Al-Hassan,KP,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0333,Mei Chen,US,Chen Peili,cn,77.77777777777779,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0334,Rahul Sharma,CA,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0335,Mei Sharma,GB,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0336,Zainab Sharma,KP,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0337,Elena Gomez,DE,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0338,Johnathan Ivanov,SG,Jonathan Ingram,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0339,Johnathan Wong,US,Johnathan Wilson,us,86.66666666666667,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0340,Zainab Silva,DE,Yuan Silang,cn,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0341,Lucas Patel,KP,Mahesh Patel,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0342,Carlos Al-Hassan,AE,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0343,Aarav Patel,SG,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0344,Zainab Wong,RU,Zhang Gong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0345,Lucas Gomez,AE,Luis L Gomez,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0346,Wei Chen,CA,Chen Weiwei,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0347,Elena Gomez,SG,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0348,Zainab Wong,AU,Zhang Gong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0349,Aarav Al-Hassan,IN,Hassan Fawaz,UNKNOWN,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0350,Wei Gomez,CA,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0351,Fatima Volkov,FR,Fartima Tucker,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0352,Lucas Al-Hassan,US,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0353,Siddharth Nair,RU,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0354,Elena Smith,US,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0355,Dmitri Volkov,SG,Dmitri Lobkov,by,84.61538461538461,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0356,Rahul Volkov,KP,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0357,Carlos Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0358,Johnathan Smith,CA,Jonathan Stone,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0359,Dmitri Wong,DE,Dmitri Lobkov,by,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0360,Zainab Patel,CA,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0361,Wei Volkov,CA,Gao Wei,cn,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0362,Elena Zhang,AE,Zhang Heng,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0363,Aarav Smirnova,GB,Aram Mirzoyan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0364,Viktor Smith,DE,Victor Smith Home,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0365,Wei Smith,AE,Wallace Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0366,Lucas Zhang,AE,Zhang Xue,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0367,Johnathan Chen,RU,Chen Jinlan,cn,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0368,Mei Al-Hassan,AU,Merhi Hassan,UNKNOWN,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0369,Carlos Patel,SG,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0370,Carlos Malik,AU,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0371,Elena Rostova,GB,Elena Radomskaya,ru;ua,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0372,Aarav Patel,FR,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0373,Zainab Smirnova,CA,Amir Zia,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0374,Dmitri Silva,RU,Dmitri Lobkov,by,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0375,Aarav Smirnova,IN,Aram Mirzoyan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0376,Lucas Ivanov,AE,Donta Lucas,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0377,Elena Smith,IN,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0378,Olga Rostova,AU,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0379,Olga Patel,SG,Mahesh Patel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0380,Rahul Smith,CA,Hali Smith,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0381,Wei Sharma,KP,Wen Shaomu,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0382,Elena Smirnova,RU,Likhomanova Elena,UNKNOWN,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0383,Mei Rostova,CA,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0384,Elena Smith,IN,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0385,Siddharth Zhang,SG,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0386,Dmitri Wong,GB,Dmitri Lobkov,by,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0387,Lucas Ivanov,CA,Donta Lucas,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0388,Zainab Sharma,AU,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0389,Olga Wong,RU,Orlando Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0390,Olga Volkov,DE,Eva Smolíková,sk,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0391,Fatima Malik,CA,Anita Malik,in,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0392,Wei Ivanov,AE,Gao Wei,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0393,Olga Smith,CA,Hali Smith,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0394,Elena Silva,CA,Elena Fedkina,cn;ru,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0395,Mei Malik,AU,Manuel Mejia,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0396,Elena Nair,RU,Kent McNair,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0397,Lucas Chen,AU,Chen Lina,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0398,Dmitri Chen,IN,Chen Demin,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0399,Elena Gomez,GB,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0400,Alexander Volkov,IN,Alexander Popov,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0401,Mei Sharma,CA,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0402,Zainab Ivanov,GB,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0403,Olga Gomez,DE,Kira Gomez,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0404,Olga Smith,US,Hali Smith,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0405,Carlos Gomez,RU,Aldo Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0406,Lucas Smith,RU,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0407,Dmitri Wong,AU,Dmitri Lobkov,by,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0408,Wei Silva,US,Sheila White,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0409,Carlos Ivanov,AE,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0410,Dmitri Al-Hassan,AE,Merhi Hassan,UNKNOWN,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0411,Dmitri Gomez,KP,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0412,Elena Rostova,CA,Elena Radomskaya,ru;ua,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0413,Elena Chen,AE,Tina Chen,us,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0414,Carlos Volkov,DE,Carlos Piexotto,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0415,Olga Nair,FR,Javier Vega,us,60.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0416,Rahul Chen,AU,Chen Tianzhu,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0417,Dmitri Malik,DE,Mahdi Amiri,ir,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0418,Zainab Chen,IN,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0419,Zainab Malik,CA,Majid Zarrinnam,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0420,Lucas Volkov,RU,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0421,Siddharth Al-Hassan,RU,'Ali Ridha Hassan AL-BANAI,gb;qa,62.22222222222222,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0422,Wei Sharma,IN,Wen Shaomu,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0423,Fatima Gomez,RU,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0424,Carlos Malik,SG,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0425,Carlos Sharma,US,Shara Croff,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0426,Dmitri Sharma,IN,Dmitrii Karasavidi,ru,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0427,Olga Sharma,GB,Puja Sharma,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0428,Fatima Smith,CA,Marika Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0429,Alexander Al-Hassan,KP,Alexander J. Ajemian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0430,Olga Zhang,AU,Zhang Xia,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0431,Carlos Ivanov,CA,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0432,Rahul Chen,SG,Chen Tianzhu,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0433,Zainab Ivanov,SG,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0434,Viktor Chen,DE,Victor Cedeno,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0435,Johnathan Ivanov,GB,Jonathan Ingram,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0436,Wei Rostova,US,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0437,Zainab Ivanov,SG,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0438,Zainab Malik,US,Majid Zarrinnam,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0439,Rahul Volkov,KP,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0440,Dmitri Patel,GB,Dhiren Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0441,Dmitri Malik,IN,Mahdi Amiri,ir,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0442,Carlos Patel,SG,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0443,Siddharth Nair,CA,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0444,Elena Nair,RU,Kent McNair,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0445,Johnathan Volkov,US,Jonathan Sotelo,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0446,Rahul Rostova,CA,Laura Royston,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0447,Mei Nair,US,Mei Yi,cn,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0448,Zainab Smirnova,SG,Amir Zia,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0449,Siddharth Zhang,GB,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0450,Carlos Wong,DE,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0451,Lucas Nair,RU,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0452,Lucas Chen,AU,Chen Lina,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0453,Alexander Zhang,CA,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0454,Zainab Ivanov,SG,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0455,Mei Rostova,DE,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0456,Viktor Zhang,FR,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0457,Siddharth Zhang,KP,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0458,Alexander Chen,FR,Alexander Reyna,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0459,Siddharth Sharma,US,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0460,Dmitri Volkov,RU,Dmitri Lobkov,by,84.61538461538461,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0461,Zainab Zhang,CA,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0462,Lucas Sharma,GB,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0463,Wei Chen,SG,Chen Weiwei,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0464,Johnathan Volkov,GB,Jonathan Sotelo,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0465,Mei Chen,AE,Chen Peili,cn,77.77777777777779,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0466,Rahul Zhang,US,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0467,Zainab Smith,IN,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0468,Lucas Patel,KP,Mahesh Patel,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0469,Carlos Silva,FR,Silvia Cata,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0470,Dmitri Wong,US,Dmitri Lobkov,by,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0471,Carlos Zhang,SG,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0472,Mei Zhang,RU,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0473,Dmitri Sharma,DE,Dmitrii Karasavidi,ru,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0474,Olga Smirnova,AE,Olga Spivak,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0475,Aarav Sharma,GB,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0476,Rahul Sharma,KP,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0477,Siddharth Smith,DE,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0478,Siddharth Ivanov,US,Siddhartha SANYAL,sg,60.60606060606061,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0479,Elena Volkov,US,Eva Smolíková,sk,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0480,Johnathan Sharma,CA,Johnathon Sawaged,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0481,Olga Wong,SG,Orlando Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0482,Wei Malik,CA,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0483,Mei Rostova,FR,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0484,Carlos Smirnova,DE,Carlos Pena,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0485,Carlos Patel,RU,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0486,Carlos Rostova,AU,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0487,Elena Patel,SG,Kevin Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0488,Lucas Wong,KP,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0489,Mei Malik,SG,Manuel Mejia,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0490,Wei Ivanov,AE,Gao Wei,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0491,Alexander Malik,CA,Carl Alexander,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0492,Mei Sharma,SG,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0493,Siddharth Zhang,FR,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0494,Mei Smirnova,KP,Medhi Shirzad,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0495,Aarav Smith,AU,Andrea Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0496,Siddharth Smith,CA,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0497,Siddharth Zhang,GB,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0498,Mei Sharma,AE,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0499,Aarav Sharma,KP,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0500,Viktor Smirnova,KP,Viktor Sykora,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0501,Mei Nair,FR,Mei Yi,cn,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0502,Rahul Ivanov,US,Pavel Ivanovich Turlak,us,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0503,Fatima Sharma,KP,Manorama Sharma,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0504,Elena Wong,IN,Erna Wei Wong,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0505,Siddharth Zhang,KP,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0506,Siddharth Al-Hassan,DE,'Ali Ridha Hassan AL-BANAI,gb;qa,62.22222222222222,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0507,Viktor Ivanov,CA,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0508,Viktor Nair,FR,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0509,Rahul Gomez,SG,Rocael Gomez,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0510,Siddharth Zhang,AU,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0511,Olga Patel,GB,Mahesh Patel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0512,Siddharth Volkov,AU,Mitar Vuković,me,55.172413793103445,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0513,Dmitri Smith,DE,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0514,Viktor Zhang,SG,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0515,Johnathan Patel,SG,Jonathan Sotelo,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0516,Carlos Silva,KP,Silvia Cata,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0517,Dmitri Rostova,IN,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0518,Siddharth Wong,IN,Timothy Wong,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0519,Viktor Ivanov,RU,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0520,Elena Sharma,DE,Puja Sharma,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0521,Alexander Volkov,IN,Alexander Popov,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0522,Dmitri Sharma,FR,Dmitrii Karasavidi,ru,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0523,Viktor Zhang,RU,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0524,Lucas Nair,DE,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0525,Olga Patel,DE,Mahesh Patel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0526,Johnathan Wong,CA,Johnathan Wilson,us,86.66666666666667,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0527,Carlos Zhang,US,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0528,Lucas Silva,KP,Silvia Cata,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0529,Siddharth Smirnova,IN,Siddhartha SANYAL,sg,57.14285714285714,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0530,Aarav Zhang,DE,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0531,Mei Volkov,FR,Mitar Vuković,me,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0532,Aarav Wong,KP,Orlando Wong,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0533,Mei Chen,FR,Chen Peili,cn,77.77777777777779,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0534,Lucas Wong,KP,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0535,Lucas Silva,KP,Silvia Cata,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0536,Fatima Patel,RU,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0537,Mei Silva,CA,Marcelino S Silva,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0538,Olga Ivanov,GB,Okley Pavel Ivanovich,UNKNOWN,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0539,Carlos Patel,AE,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0540,Carlos Chen,DE,Cao Chen,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0541,Alexander Patel,CA,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0542,Johnathan Zhang,GB,Jonha Lang,cn,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0543,Rahul Al-Hassan,AU,Mazen Hassan Al-Zein,ae;gb;lb,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0544,Wei Patel,SG,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0545,Alexander Rostova,RU,Alexander Popov,us,81.25,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0546,Lucas Smith,IN,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0547,Carlos Volkov,DE,Carlos Piexotto,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0548,Viktor Wong,IN,Wan-Sing Victor Wong,us,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0549,Rahul Chen,DE,Chen Tianzhu,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0550,Carlos Zhang,CA,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0551,Wei Volkov,DE,Gao Wei,cn,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0552,Fatima Smith,GB,Marika Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0553,Siddharth Zhang,IN,Zhang Xia,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0554,Wei Al-Hassan,IN,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0555,Elena Nair,AE,Kent McNair,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0556,Johnathan Volkov,AU,Jonathan Sotelo,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0557,Johnathan Nair,AE,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0558,Olga Wong,RU,Orlando Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0559,Lucas Volkov,DE,Eva Smolíková,sk,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0560,Aarav Patel,AU,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0561,Rahul Zhang,US,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0562,Wei Ivanov,US,Gao Wei,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0563,Carlos Rostova,IN,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0564,Carlos Rostova,FR,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0565,Siddharth Sharma,SG,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0566,Olga Zhang,DE,Zhang Xia,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0567,Rahul Rostova,RU,Laura Royston,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0568,Zainab Malik,IN,Majid Zarrinnam,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0569,Rahul Sharma,RU,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0570,Siddharth Rostova,AE,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0571,Wei Rostova,CA,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0572,Dmitri Malik,DE,Mahdi Amiri,ir,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0573,Zainab Patel,AE,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0574,Rahul Patel,DE,Sonal Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0575,Fatima Patel,FR,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0576,Fatima Volkov,CA,Fartima Tucker,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0577,Johnathan Gomez,FR,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0578,Viktor Smirnova,RU,Viktor Sykora,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0579,Mei Rostova,RU,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0580,Dmitri Smirnova,GB,Dmitry Strashnov,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0581,Viktor Smith,KP,Victor Smith Home,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0582,Johnathan Gomez,CA,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0583,Mei Gomez,AE,Kira Gomez,us,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0584,Carlos Chen,DE,Cao Chen,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0585,Aarav Nair,SG,Nizar Farhat,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0586,Aarav Malik,IN,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0587,Zainab Smirnova,US,Amir Zia,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0588,Mei Rostova,FR,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0589,Carlos Patel,KP,Carlos Pena,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0590,Zainab Al-Hassan,KP,Mazen Hassan Al-Zein,ae;gb;lb,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0591,Rahul Patel,RU,Sonal Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0592,Aarav Nair,IN,Nizar Farhat,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0593,Wei Smirnova,US,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0594,Alexander Zhang,GB,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0595,Olga Al-Hassan,RU,Mazen Hassan Al-Zein,ae;gb;lb,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0596,Alexander Ivanov,AE,Alexander Ivanovich Bas,by,82.05128205128204,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0597,Rahul Volkov,AU,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0598,Aarav Zhang,KP,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0599,Viktor Gomez,FR,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0600,Olga Nair,AU,Javier Vega,us,60.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0601,Elena Patel,FR,Kevin Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0602,Elena Ivanov,KP,Likhomanova Elena,UNKNOWN,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0603,Aarav Malik,IN,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0604,Siddharth Chen,RU,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0605,Olga Rostova,IN,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0606,Dmitri Smith,FR,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0607,Wei Rostova,US,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0608,Zainab Patel,US,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0609,Olga Gomez,US,Kira Gomez,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0610,Fatima Chen,CA,Chen Fan,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0611,Wei Patel,FR,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0612,Elena Rostova,US,Elena Radomskaya,ru;ua,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0613,Elena Smirnova,SG,Likhomanova Elena,UNKNOWN,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0614,Siddharth Smith,DE,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0615,Siddharth Smirnova,US,Siddhartha SANYAL,sg,57.14285714285714,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0616,Fatima Ivanov,SG,Ivan Castilleja,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0617,Mei Gomez,DE,Kira Gomez,us,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0618,Mei Al-Hassan,DE,Merhi Hassan,UNKNOWN,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0619,Wei Malik,IN,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0620,Rahul Smirnova,AU,Paul Siroky,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0621,Dmitri Sharma,GB,Dmitrii Karasavidi,ru,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0622,Lucas Al-Hassan,SG,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0623,Elena Rostova,CA,Elena Radomskaya,ru;ua,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0624,Alexander Wong,DE,Alexander Sako,sk,78.57142857142857,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0625,Rahul Sharma,GB,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0626,Zainab Smith,SG,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0627,Zainab Silva,SG,Yuan Silang,cn,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0628,Viktor Sharma,AE,Mr Viktor Sherman,ua,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0629,Fatima Zhang,RU,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0630,Alexander Rostova,AU,Alexander Popov,us,81.25,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0631,Viktor Zhang,AE,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0632,Zainab Rostova,US,Liksutova Tatiana,UNKNOWN,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0633,Wei Nair,KP,Gao Wei,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0634,Elena Ivanov,GB,Likhomanova Elena,UNKNOWN,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0635,Johnathan Nair,CA,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0636,Zainab Gomez,GB,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0637,Siddharth Ivanov,AU,Siddhartha SANYAL,sg,60.60606060606061,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0638,Johnathan Al-Hassan,AE,"Arellano, Jonathan",us,70.27027027027026,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0639,Alexander Zhang,SG,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0640,Aarav Volkov,FR,Yolotzi Lara,us,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0641,Elena Sharma,SG,Puja Sharma,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0642,Dmitri Al-Hassan,KP,Merhi Hassan,UNKNOWN,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0643,Dmitri Chen,RU,Chen Demin,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0644,Johnathan Silva,RU,Johnathan Wilson,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0645,Wei Smirnova,AE,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0646,Siddharth Chen,AE,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0647,Viktor Smirnova,IN,Viktor Sykora,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0648,Olga Patel,AE,Mahesh Patel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0649,Siddharth Al-Hassan,AE,'Ali Ridha Hassan AL-BANAI,gb;qa,62.22222222222222,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0650,Aarav Chen,IN,Chen Can,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0651,Zainab Chen,RU,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0652,Zainab Ivanov,IN,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0653,Elena Wong,FR,Erna Wei Wong,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0654,Rahul Silva,KP,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0655,Zainab Wong,RU,Zhang Gong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0656,Aarav Zhang,RU,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0657,Wei Smith,RU,Wallace Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0658,Elena Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,68.57142857142857,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0659,Wei Gomez,AU,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0660,Alexander Patel,AU,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0661,Lucas Wong,AE,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0662,Olga Rostova,SG,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0663,Rahul Silva,RU,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0664,Johnathan Silva,AE,Johnathan Wilson,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0665,Dmitri Malik,GB,Mahdi Amiri,ir,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0666,Wei Malik,RU,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0667,Carlos Zhang,RU,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0668,Elena Sharma,IN,Puja Sharma,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0669,Olga Nair,GB,Javier Vega,us,60.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0670,Zainab Chen,KP,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0671,Lucas Al-Hassan,IN,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0672,Johnathan Smirnova,AU,Johnathan Wilson,us,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0673,Rahul Volkov,IN,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0674,Dmitri Rostova,FR,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0675,Zainab Zhang,IN,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0676,Fatima Al-Hassan,FR,Alan Fabian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0677,Mei Al-Hassan,FR,Merhi Hassan,UNKNOWN,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0678,Elena Sharma,RU,Puja Sharma,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0679,Carlos Silva,RU,Silvia Cata,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0680,Rahul Sharma,RU,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0681,Siddharth Nair,AU,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0682,Fatima Zhang,DE,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0683,Siddharth Nair,FR,Siddhartha SANYAL,sg,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0684,Lucas Smith,GB,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0685,Zainab Zhang,US,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0686,Carlos Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0687,Fatima Smith,IN,Marika Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0688,Viktor Al-Hassan,FR,Alvin Victor Prasad,us,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0689,Rahul Smith,AE,Hali Smith,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0690,Aarav Smirnova,KP,Aram Mirzoyan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0691,Dmitri Zhang,SG,Zhang Qi,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0692,Alexander Patel,GB,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0693,Carlos Gomez,GB,Aldo Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0694,Dmitri Ivanov,SG,Dmitrii Ivanovich LVOV,ru,74.28571428571429,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0695,Fatima Sharma,AU,Manorama Sharma,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0696,Wei Ivanov,US,Gao Wei,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0697,Lucas Nair,AE,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0698,Rahul Volkov,CA,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0699,Elena Malik,US,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0700,Rahul Patel,DE,Sonal Patel,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0701,Elena Silva,RU,Elena Fedkina,cn;ru,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0702,Alexander Chen,KP,Alexander Reyna,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0703,Alexander Chen,DE,Alexander Reyna,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0704,Viktor Silva,CA,Viktor Sykora,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0705,Aarav Wong,DE,Orlando Wong,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0706,Siddharth Silva,GB,Siddhartha SANYAL,sg,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0707,Lucas Chen,IN,Chen Lina,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0708,Rahul Malik,FR,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0709,Aarav Patel,KP,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0710,Mei Chen,GB,Chen Peili,cn,77.77777777777779,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0711,Lucas Wong,GB,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0712,Wei Rostova,IN,Wesley Robison,us,56.00000000000001,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0713,Rahul Silva,CA,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0714,Wei Gomez,SG,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0715,Siddharth Silva,KP,Siddhartha SANYAL,sg,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0716,Fatima Sharma,US,Manorama Sharma,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0717,Lucas Gomez,IN,Luis L Gomez,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0718,Wei Gomez,KP,Gao Wei,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0719,Lucas Smirnova,KP,Luca Tubbini,us,53.84615384615385,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0720,Wei Patel,IN,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0721,Rahul Silva,SG,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0722,Zainab Nair,AE,Wai Zin,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0723,Wei Malik,FR,Parveen Malik,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0724,Siddharth Sharma,RU,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0725,Elena Wong,IN,Erna Wei Wong,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0726,Fatima Smirnova,AE,Patricia Sandoval,us,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0727,Carlos Rostova,FR,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0728,Carlos Malik,IN,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0729,Rahul Silva,AE,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0730,Johnathan Wong,AE,Johnathan Wilson,us,86.66666666666667,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0731,Rahul Chen,IN,Chen Tianzhu,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0732,Fatima Patel,SG,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0733,Rahul Sharma,KP,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0734,Johnathan Zhang,GB,Jonha Lang,cn,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0735,Elena Smith,US,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0736,Carlos Rostova,GB,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0737,Siddharth Smirnova,GB,Siddhartha SANYAL,sg,57.14285714285714,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0738,Lucas Wong,AU,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0739,Elena Rostova,AU,Elena Radomskaya,ru;ua,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0740,Johnathan Gomez,SG,Jonathan Gulde,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0741,Rahul Ivanov,AE,Pavel Ivanovich Turlak,us,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0742,Fatima Ivanov,CA,Ivan Castilleja,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0743,Wei Sharma,KP,Wen Shaomu,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0744,Wei Al-Hassan,DE,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0745,Alexander Volkov,US,Alexander Popov,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0746,Carlos Rostova,SG,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0747,Elena Ivanov,IN,Likhomanova Elena,UNKNOWN,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0748,Wei Al-Hassan,AE,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0749,Dmitri Nair,AE,Dimitrios Zafiris,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0750,Rahul Wong,FR,Yulong,cn,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0751,Rahul Sharma,IN,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0752,Johnathan Malik,KP,Jonathan T. Walker,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0753,Aarav Malik,RU,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0754,Siddharth Gomez,KP,Gholamreza Shareghi,us,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0755,Rahul Silva,GB,Sheila Saul,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0756,Dmitri Gomez,IN,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0757,Rahul Nair,AU,Paul Lanier,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0758,Fatima Rostova,IN,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0759,Rahul Zhang,CA,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0760,Mei Gomez,FR,Kira Gomez,us,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0761,Fatima Nair,KP,Fartima Tucker,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0762,Mei Smith,US,Meon Smith,us,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0763,Carlos Zhang,GB,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0764,Siddharth Rostova,US,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0765,Rahul Nair,DE,Paul Lanier,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0766,Alexander Chen,IN,Alexander Reyna,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0767,Aarav Smith,SG,Andrea Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0768,Olga Silva,US,Olga Spivak,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0769,Zainab Smith,SG,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0770,Fatima Nair,SG,Fartima Tucker,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0771,Aarav Silva,FR,Silvia Cata,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0772,Carlos Volkov,SG,Carlos Piexotto,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0773,Alexander Chen,KP,Alexander Reyna,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0774,Aarav Sharma,FR,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0775,Wei Volkov,AE,Gao Wei,cn,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0776,Mei Sharma,CA,Maunish Sharma,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0777,Dmitri Ivanov,FR,Dmitrii Ivanovich LVOV,ru,74.28571428571429,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0778,Olga Chen,IN,Chen Fan,cn,70.58823529411764,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0779,Alexander Patel,RU,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0780,Dmitri Chen,GB,Chen Demin,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0781,Lucas Sharma,DE,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0782,Carlos Nair,US,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0783,Aarav Al-Hassan,IN,Hassan Fawaz,UNKNOWN,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0784,Johnathan Patel,AE,Jonathan Sotelo,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0785,Lucas Al-Hassan,US,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0786,Alexander Zhang,AE,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0787,Carlos Rostova,RU,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0788,Johnathan Malik,AE,Jonathan T. Walker,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0789,Zainab Sharma,AE,Zahir Shah,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0790,Fatima Sharma,FR,Manorama Sharma,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0791,Carlos Smirnova,AU,Carlos Pena,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0792,Zainab Zhang,SG,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0793,Lucas Wong,GB,La Qiong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0794,Lucas Sharma,RU,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0795,Alexander Patel,RU,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0796,Dmitri Smirnova,RU,Dmitry Strashnov,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0797,Aarav Patel,AE,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0798,Mei Patel,AE,Kevin Patel,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0799,Viktor Volkov,AU,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0800,Olga Sharma,AE,Puja Sharma,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0801,Olga Malik,KP,Parveen Malik,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0802,Alexander Smirnova,IN,Allexander Saiag,us,76.47058823529412,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0803,Wei Smirnova,SG,Lin Na Wei,cn,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0804,Siddharth Smith,RU,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0805,Siddharth Smirnova,US,Siddhartha SANYAL,sg,57.14285714285714,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0806,Wei Chen,US,Chen Weiwei,cn,84.21052631578947,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0807,Carlos Smith,US,Charles Smith,us,88.0,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0808,Lucas Zhang,RU,Zhang Xue,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0809,Zainab Chen,DE,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0810,Rahul Nair,SG,Paul Lanier,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0811,Elena Nair,SG,Kent McNair,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0812,Zainab Chen,AU,Tina Chen,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0813,Viktor Smirnova,DE,Viktor Sykora,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0814,Viktor Smith,SG,Victor Smith Home,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0815,Aarav Ivanov,IN,Alexander Ivanovich Bas,by,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0816,Johnathan Nair,GB,Johnathan Wilson,us,73.33333333333334,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0817,Carlos Nair,FR,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0818,Fatima Silva,GB,Silvia Cata,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0819,Viktor Chen,AE,Victor Cedeno,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0820,Olga Malik,GB,Parveen Malik,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0821,Wei Patel,GB,Pamela Winn,us,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0822,Olga Malik,IN,Parveen Malik,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0823,Elena Smith,RU,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0824,Carlos Al-Hassan,GB,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0825,Rahul Malik,DE,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0826,Dmitri Smith,SG,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0827,Elena Gomez,GB,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0828,Zainab Wong,KP,Zhang Gong,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0829,Rahul Volkov,SG,Vijil K Rahulan,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0830,Zainab Zhang,AE,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0831,Olga Rostova,GB,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0832,Lucas Malik,CA,Anita Malik,in,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0833,Siddharth Malik,IN,Marika Smith,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0834,Alexander Rostova,AU,Alexander Popov,us,81.25,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0835,Alexander Zhang,US,Allexander Saiag,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0836,Carlos Nair,RU,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0837,Johnathan Volkov,GB,Jonathan Sotelo,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0838,Wei Nair,DE,Gao Wei,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0839,Rahul Smith,DE,Hali Smith,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0840,Carlos Volkov,SG,Carlos Piexotto,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0841,Mei Rostova,DE,Mostafa Mohebbi,ir,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0842,Wei Wong,AU,Erna Wei Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0843,Aarav Malik,GB,Anita Malik,in,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0844,Viktor Ivanov,IN,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0845,Zainab Patel,SG,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0846,Lucas Sharma,IN,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0847,Alexander Patel,RU,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0848,Wei Wong,CA,Erna Wei Wong,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0849,Lucas Nair,SG,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0850,Olga Al-Hassan,AE,Mazen Hassan Al-Zein,ae;gb;lb,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0851,Siddharth Chen,DE,Sihai Cheng,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0852,Fatima Rostova,RU,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0853,Elena Al-Hassan,KP,Mazen Hassan Al-Zein,ae;gb;lb,68.57142857142857,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0854,Rahul Sharma,AE,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0855,Zainab Volkov,DE,Veljko Zarubica,me,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0856,Johnathan Ivanov,FR,Jonathan Ingram,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0857,Carlos Smirnova,AE,Carlos Pena,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0858,Aarav Zhang,KP,Zhang Xia,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0859,Zainab Al-Hassan,AU,Mazen Hassan Al-Zein,ae;gb;lb,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0860,Mei Nair,FR,Mei Yi,cn,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0861,Alexander Silva,CA,Allexander Saiag,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0862,Carlos Rostova,GB,Carlos Rubio-Tovias,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0863,Aarav Smith,US,Andrea Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0864,Olga Rostova,US,Olga Spivak,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0865,Viktor Malik,CA,Mr Viktor Slobolinskii,ru;ua,64.70588235294117,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0866,Viktor Volkov,SG,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0867,Mei Patel,RU,Kevin Patel,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0868,Mei Zhang,SG,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0869,Zainab Gomez,FR,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0870,Siddharth Sharma,KP,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0871,Fatima Silva,SG,Silvia Cata,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0872,Siddharth Al-Hassan,SG,'Ali Ridha Hassan AL-BANAI,gb;qa,62.22222222222222,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0873,Lucas Rostova,KP,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0874,Siddharth Sharma,US,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0875,Carlos Ivanov,AU,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0876,Siddharth Rostova,US,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0877,Johnathan Al-Hassan,AU,"Arellano, Jonathan",us,70.27027027027026,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0878,Aarav Nair,AU,Nizar Farhat,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0879,Rahul Zhang,AU,Zhang Shu,cn,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0880,Zainab Smith,AE,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0881,Johnathan Smith,AU,Jonathan Stone,us,75.86206896551724,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0882,Elena Smith,DE,Brenda Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0883,Carlos Gomez,AE,Aldo Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0884,Elena Ivanov,CA,Likhomanova Elena,UNKNOWN,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0885,Aarav Sharma,GB,Manorama Sharma,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0886,Alexander Patel,US,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0887,Lucas Nair,DE,Lashanda McNair,us,64.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0888,Carlos Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0889,Fatima Wong,US,Ming Fan Wong,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0890,Alexander Silva,GB,Allexander Saiag,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0891,Aarav Volkov,DE,Yolotzi Lara,us,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0892,Rahul Rostova,AU,Laura Royston,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0893,Dmitri Gomez,KP,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0894,Carlos Ivanov,AE,Juan Carlos Sosa,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0895,Viktor Chen,RU,Victor Cedeno,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0896,Lucas Silva,DE,Silvia Cata,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0897,Rahul Malik,GB,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0898,Mei Wong,KP,Wang Min,cn,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0899,Olga Volkov,FR,Eva Smolíková,sk,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0900,Aarav Chen,DE,Chen Can,cn,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0901,Alexander Al-Hassan,RU,Alexander J. Ajemian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0902,Aarav Rostova,RU,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0903,Alexander Volkov,CA,Alexander Popov,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0904,Zainab Rostova,FR,Liksutova Tatiana,UNKNOWN,64.51612903225806,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0905,Viktor Ivanov,AU,Viktor Ivanovich ZINKOV,ru;ua,72.22222222222221,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0906,Zainab Silva,AU,Yuan Silang,cn,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0907,Alexander Nair,CA,Carl Alexander,us,85.71428571428572,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0908,Mei Silva,DE,Marcelino S Silva,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0909,Viktor Zhang,AE,Zhang Xiao,cn,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0910,Johnathan Malik,RU,Jonathan T. Walker,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0911,Johnathan Patel,RU,Jonathan Sotelo,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0912,Viktor Silva,SG,Viktor Sykora,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0913,Rahul Sharma,CA,Rakesh Sharma,us,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0914,Aarav Rostova,GB,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0915,Viktor Sharma,KP,Mr Viktor Sherman,ua,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0916,Dmitri Zhang,AE,Zhang Qi,cn,70.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0917,Rahul Rostova,RU,Laura Royston,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0918,Elena Ivanov,FR,Likhomanova Elena,UNKNOWN,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0919,Alexander Ivanov,GB,Alexander Ivanovich Bas,by,82.05128205128204,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0920,Siddharth Sharma,AE,Siddhartha SANYAL,sg,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0921,Dmitri Al-Hassan,US,Merhi Hassan,UNKNOWN,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0922,Fatima Rostova,RU,Damian LaRosa,us,59.25925925925925,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0923,Rahul Al-Hassan,SG,Mazen Hassan Al-Zein,ae;gb;lb,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0924,Viktor Rostova,FR,Viktor Sykora,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0925,Mei Zhang,AE,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0926,Rahul Al-Hassan,KP,Mazen Hassan Al-Zein,ae;gb;lb,62.857142857142854,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0927,Dmitri Smith,AU,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0928,Carlos Gomez,SG,Aldo Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0929,Carlos Wong,GB,Carlos Pena,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0930,Rahul Malik,FR,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0931,Fatima Al-Hassan,RU,Alan Fabian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0932,Dmitri Rostova,CA,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0933,Alexander Sharma,RU,Allexander Saiag,us,81.25,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0934,Zainab Smirnova,SG,Amir Zia,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0935,Carlos Al-Hassan,CA,Mazen Hassan Al-Zein,ae;gb;lb,61.111111111111114,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0936,Olga Zhang,AU,Zhang Xia,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0937,Siddharth Malik,CA,Marika Smith,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0938,Fatima Patel,DE,Aarti Hinal Patel,us,68.96551724137932,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0939,Wei Al-Hassan,SG,Merhi Hassan,UNKNOWN,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0940,Siddharth Smith,IN,Micah Smith,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0941,Carlos Malik,GB,Carlos Pena,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0942,Mei Zhang,AU,Zhang Wei,cn,88.88888888888889,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0943,Viktor Silva,US,Viktor Sykora,us,72.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0944,Fatima Al-Hassan,RU,Alan Fabian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0945,Aarav Gomez,AU,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0946,Rahul Gomez,AU,Rocael Gomez,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0947,Alexander Al-Hassan,AU,Alexander J. Ajemian,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0948,Dmitri Rostova,GB,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0949,Carlos Silva,IN,Silvia Cata,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0950,Dmitri Al-Hassan,GB,Merhi Hassan,UNKNOWN,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0951,Dmitri Rostova,DE,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0952,Carlos Sharma,SG,Shara Croff,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0953,Viktor Volkov,FR,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0954,Zainab Smith,SG,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0955,Fatima Gomez,RU,Carmencita Gomez,us,64.28571428571428,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0956,Siddharth Wong,KP,Timothy Wong,us,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0957,Zainab Gomez,FR,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0958,Zainab Zhang,GB,Zhang Xia,cn,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0959,Johnathan Volkov,IN,Jonathan Sotelo,us,77.41935483870968,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0960,Lucas Sharma,AE,Puja Sharma,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0961,Siddharth Silva,DE,Siddhartha SANYAL,sg,62.5,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0962,Fatima Malik,US,Anita Malik,in,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0963,Dmitri Volkov,RU,Dmitri Lobkov,by,84.61538461538461,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0964,Dmitri Ivanov,FR,Dmitrii Ivanovich LVOV,ru,74.28571428571429,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0965,Zainab Smith,CA,Tina L Smith,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0966,Johnathan Wong,US,Johnathan Wilson,us,86.66666666666667,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0967,Aarav Patel,AE,Aarti Hinal Patel,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0968,Lucas Malik,US,Anita Malik,in,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0969,Siddharth Rostova,FR,Siddhartha SANYAL,sg,58.82352941176471,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0970,Johnathan Ivanov,RU,Jonathan Ingram,us,70.96774193548387,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0971,Rahul Smith,IN,Hali Smith,us,76.19047619047619,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0972,Viktor Volkov,CA,Mitar Vuković,me,61.53846153846154,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0973,Aarav Gomez,FR,Aldo Gomez,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0974,Alexander Malik,SG,Carl Alexander,us,82.75862068965517,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0975,Viktor Sharma,IN,Mr Viktor Sherman,ua,80.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0976,Rahul Malik,AE,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0977,Olga Smirnova,DE,Olga Spivak,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0978,Johnathan Wong,GB,Johnathan Wilson,us,86.66666666666667,High Risk - Watchlist,FALSE POSITIVE - COUNTRY MISMATCH
+CUST-0979,Zainab Gomez,RU,Kira Gomez,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0980,Siddharth Smirnova,DE,Siddhartha SANYAL,sg,57.14285714285714,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0981,Dmitri Nair,FR,Dimitrios Zafiris,us,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0982,Mei Nair,RU,Mei Yi,cn,71.42857142857143,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0983,Fatima Chen,US,Chen Fan,cn,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0984,Zainab Patel,AE,Sachin Patel,us,75.0,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0985,Dmitri Smith,IN,Camry Smith,us,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0986,Carlos Zhang,AE,Carlos Luansing,us,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0987,Lucas Rostova,FR,Laura Royston,us,69.23076923076923,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0988,Fatima Wong,CA,Ming Fan Wong,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0989,Dmitri Rostova,CA,Dmitri Lobkov,by,74.07407407407408,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0990,Zainab Ivanov,GB,Zabrin Inan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0991,Lucas Al-Hassan,AE,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0992,Aarav Smith,US,Andrea Smith,us,78.26086956521739,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0993,Fatima Malik,CA,Anita Malik,in,69.56521739130434,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0994,Lucas Smith,US,Micah Smith,us,72.72727272727273,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0995,Lucas Al-Hassan,AU,Lea Hasan,us,66.66666666666667,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0996,Rahul Malik,US,Mark Samuel,us,63.63636363636363,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0997,Lucas Ivanov,AE,Donta Lucas,us,60.86956521739131,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0998,Elena Chen,KP,Tina Chen,us,73.6842105263158,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-0999,Aarav Volkov,IN,Yolotzi Lara,us,58.33333333333333,High Risk - Watchlist,PASSED - LOW SCORE
+CUST-1000,Alexander Patel,US,Rachel Alexander,us,83.87096774193549,High Risk - Watchlist,PASSED - LOW SCORE
